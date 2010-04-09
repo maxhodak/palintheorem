@@ -1,0 +1,7 @@
+# Palin Theorem
+
+There exists a thought experiment, which says that if one gives enough monkeys enough time (namely, infinite of each), one will eventually end up with the complete works of Shakespeare, among other things. I'm not sure if that generalizes for Sarah Palins.
+
+I wrote this two or three years ago back when I was *just* starting to play with Thrift.  It took about 2 or 3 hours to put the RPC layer on top of the Java Markov model and plug that into a web interface.  I already had the code on hand from classwork (we had an assignment that involved writing the n-gram Markov model used here).
+
+Everything here is released under the MIT License, & c & c.
